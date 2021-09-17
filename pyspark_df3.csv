@@ -1,0 +1,11 @@
+id,department,salary,sex
+A,Sales,3000,M
+B,Sales,4600,M
+C,Sales,4100,M
+D,Finance,3000,M
+E,Sales,3000,M
+F,Finance,3300,F
+G,Finance,3900,F
+H,Marketing,3000,F
+I,Marketing,2000,F
+J,Sales,4100,F
